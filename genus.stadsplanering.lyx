@@ -1,0 +1,224 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language swedish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_author "Fredrik Reinius"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language swedish
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\lang english
+Genus och Stadsplanering
+\end_layout
+
+\begin_layout Author
+
+\lang english
+Fredrik Reinius
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagebreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+En rubrik
+\end_layout
+
+\begin_layout Standard
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Duis lobortis imperdiet congue.
+ Suspendisse mattis viverra ligula, non fermentum orci gravida ut.
+ Morbi non leo ac augue ultrices porta.
+ Sed scelerisque mi nibh.
+ Aliquam venenatis varius magna nec gravida.
+ Vestibulum imperdiet massa fringilla mi feugiat quis consequat justo scelerisqu
+e.
+ Sed sed nulla sapien, egestas sodales leo.
+ Pellentesque habitant morbi tristique senectus et netus et malesuada fames
+ ac turpis egestas.
+ Morbi ac lacus mauris, quis placerat lorem.
+ Nulla et mauris erat, sed dapibus elit.
+ In augue diam, condimentum nec tristique et, auctor nec odio.
+ Pellentesque habitant morbi tristique senectus et netus et malesuada fames
+ ac turpis egestas.
+ In hac habitasse platea dictumst.
+ Pellentesque interdum lacinia euismod.
+ Integer tincidunt, eros in laoreet iaculis, dui purus congue massa, sit
+ amet rutrum ligula ipsum sed nulla.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Fredrik/Pictures/1024/foto-1024-5189.jpg
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+En underrubrik
+\end_layout
+
+\begin_layout Standard
+Phasellus erat nibh, viverra ac blandit at, rhoncus et eros.
+ Etiam accumsan rutrum lacinia.
+ Nulla aliquet magna eget lacus tempus facilisis.
+ Sed a dolor tellus, in semper velit.
+ Integer ante magna, vulputate at varius a, accumsan ut tortor.
+ Aliquam ac ipsum felis, vel suscipit risus.
+ Nunc leo ipsum, fermentum quis molestie sed, scelerisque nec purus.
+ Quisque a urna eu felis aliquet laoreet.
+ Nulla facilisi.
+ Suspendisse non posuere purus.
+ Nam sapien ipsum, lobortis non ultricies ut, commodo quis arcu.
+ Nunc faucibus, felis ut dignissim ornare, mi dolor varius orci, eu ultrices
+ felis sapien sed tellus.
+ Maecenas aliquam scelerisque tempus.
+ Donec vel porttitor mi.
+ In dignissim mattis hendrerit.
+ Nulla facilisi.
+ Duis tempus congue congue.
+ Sed sed mi risus.
+ Mauris quam velit, porttitor eu commodo quis, pretium quis neque.
+ Aliquam laoreet mollis lectus, non egestas odio varius a.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Hej hej!
+\begin_inset CommandInset citation
+LatexCommand cite
+key "bodelius:2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagebreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "genus"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
